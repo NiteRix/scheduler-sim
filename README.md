@@ -2,6 +2,8 @@
 
 An interactive simulator for the CPU scheduling algorithms covered in OS courses, with an animated Gantt chart, per-process metrics, and a side-by-side comparison of every algorithm.
 
+https://scheduler-sim.streamlit.app/
+
 **Algorithms:** FCFS · SJF (non-preemptive) · SRTF (preemptive SJF) · Priority (non-preemptive) · Priority (preemptive) · Round Robin
 
 ## Run it
